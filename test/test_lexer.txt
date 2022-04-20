@@ -1,0 +1,11 @@
+int main() {
+    int _a = 0;
+    float b = 100.123;
+    
+    if (b>a) {
+        while(b--) {
+            a++;
+        }
+    }
+    return 0;
+}
